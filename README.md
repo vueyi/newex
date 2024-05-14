@@ -29,9 +29,9 @@
 新版外汇系统，所有币种均可用平台币种控制，系统功能齐全
 产品构造与维护
 
-newexcoin.org
-vexus.kelubit.id
-dapp.kelubit.id
+http://www.newexcoin.org
+http://vexus.kelubit.id
+http://dapp.kelubit.id
 前端vue
 后端java
 
