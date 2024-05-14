@@ -1,3 +1,5 @@
+![Screenshot_2024-05-06-22-43-26-47_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/vueyi/newex/assets/130923270/5480e973-e387-4d2f-9d67-40c3b327ad45)
+![Screenshot_2024-05-14-09-19-39-18_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/vueyi/newex/assets/130923270/d9bf94bb-b82d-4aee-9547-fd040788466c)
 # newex
 部署教程
 --------------------------
